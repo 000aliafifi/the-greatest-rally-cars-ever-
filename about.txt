@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About</title>
+    <link rel="stylesheet" href="style2.css">
+</head>
+<body>
+    <header>
+        <h1>Our Project</h1>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">about</a></li>
+        </ul>
+    </header>
+
+    <main>
+        <hr>
+        
+        <h2>About the project</h2>
+        <p>
+            In this web pages, we talk about the greatest rally cars ever made and their history. 
+        </p>
+        <br>
+        <h5>
+            For more information, visit the official <a href="https://www.wrc.com">WRC Website</a>
+        </h5>
+
+        <h2>Team Members</h2>
+        <ul>
+            <li>ÚãÑ ÇáÓíÏ Úİíİí ÚÈÏÇááå</li>
+            <li>Úáí ãÍãÏ Úİíİí </li>
+            <li>ÚãÑ ÚÇÏá</li>
+        </ul>
+    </main>
+</body>
+</html>

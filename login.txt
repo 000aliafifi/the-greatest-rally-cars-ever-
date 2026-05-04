@@ -1,0 +1,35 @@
+
+<html>
+<head>
+    <title>Login Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1 style="text align:center">Members Login</h1>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="LOGIN.HTML">Login</a></li>
+                <li><a href="about.html">about</a></li>
+            </ul>
+    </header>
+
+    <main>
+          <form>
+    <label>Username</label>
+    <br> <input type="text" name="username" required>
+    
+    <br><br> <label>Password</label>
+    <br> <input type="password" name="password" required>
+    
+    <br><br>
+    <button type="submit">Login</button> <br><br>
+    <label>which type of cars do you prefer?</label><br>
+<input type="checkbox" value="sedan"><label>sedan</label> 
+ <br><input type="checkbox" value="suv"><label>suv</label> 
+<br><input type="checkbox" value="coupe"><label>coupe</label>
+<br><input type="checkbox" value="pickup"><label>pickup</label>        </form>
+        </div>
+    </main>
+</body>
+</html>

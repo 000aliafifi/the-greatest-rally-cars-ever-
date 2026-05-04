@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home Page</title>.
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body style="background-color:orange">
+    <header>
+        <h1>Home Page</h1>
+
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="login.html">Login</a></li>
+            <li><a href="about.html">about</a></li>
+        </ul>
+    </header>
+
+    <main>
+        <hr> <h2>the greatest rally cars ever made</h2>
+
+        <img src="car1.jpeg" width="400">
+        <p>
+            Rally racing is one of the toughest motorsports in the world. Cars face gravel, snow, mud, and tarmac, often on the same day. They need to be fast, but more importantly, they need to be durable, agile and dependable under the harshest conditions.
+        </p>
+
+        <p>
+            So, what makes a great rally car? A strong chassis, robust suspension, lightweight build, and an engine that delivers reliable power. Add in advanced brakes, and safety features like a roll cage, and you’ve got the right ingredients.
+        </p>
+        <h2>Examples: 1985 Audi Sport Quattro S1</h2>
+        
+        <img src="car2.jpeg" width="400">
+
+        <p>
+          1985 Audi Sport Quattro S1
+Engine: 2.1L Inline-5 / Power: 540 bhp / Torque: 435 ft-lbs / Drivetrain: Quattro AWD / 0-60 mph: 3.1 sec / Notable driver(s): Michele Mouton, Walter R?hrl, Hannu Mikkola 
+        </p>
+<h2>1986 Ford RS200 Evolution</h2>
+<img src="car5.png" width="400">
+<p>Engine: 2.1L Inline-4 / Power: 580 bhp / Torque: 400 ft-lbs / Drivetrain: 4WD / 0-60 mph: 3.0 sec / Notable driver(s): Stig Blomqvist</p>
+       <p>
+      <h2>Subaru Impreza</h2>
+     <img src="car3.jpeg"width="400">
+
+ <p>Engine: 2.0L Boxer-4 / Power: 310 bhp / Torque: 367 ft-lbs / Drivetrain: 4WD / 0-60 mph: 5.0 sec / Notable driver(s): Colin McRae</p>
+  <h2>1997 Mitsubishi Lancer Evolution IV</h2>
+   <img src="cae4.jpeg" width ="400">
+<p>
+Engine: 2.0L Inline-4 / Power: 280 bhp / Torque: 369 ft-lbs / Drivetrain: 4WD / 0-60 mph: 5.5 sec / Notable driver(s): Tommi M?kinen</p>
+<h2>1975 Ford Escort RS1800</h2>
+<img src="car6.jpeg" width="400"><p>Engine: 1.8L Inline-4 / Power: 115 bhp / Torque: 126 ft-lbs / Drivetrain: RWD / 0-60 mph: 8.2 sec / Notable driver(s): Hannu Mikkola, Ari Vatanen, Bj?rn Waldeg?rd</p>
+ </main>
+</body>
+</html>
